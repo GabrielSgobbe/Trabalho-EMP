@@ -1,0 +1,19 @@
+#home {
+	background-color: gray;
+	color: white;
+}
+
+.espaco {
+	padding: 60px 0;
+	border-bottom: 1px solid gray;
+}
+
+p {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+	font-family: League-Gothic;
+	font-size: 50px;
+}
